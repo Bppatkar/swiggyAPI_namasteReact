@@ -1,0 +1,58 @@
+{
+  "info": {
+    "id": "637283",
+    "name": "GetAWay-Ice Creams & Desserts",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/24/4262556c-03fb-4287-bea0-589f0b4c9294_637283.jpg",
+    "locality": "MR 4 Road",
+    "areaName": "Vijay Nagar",
+    "costForTwo": "₹200 for two",
+    "cuisines": ["Ice Cream", "Desserts", "Healthy Food", "Sweets"],
+    "avgRating": 4.9,
+    "veg": true,
+    "parentId": "354819",
+    "avgRatingString": "4.9",
+    "totalRatingsString": "50+",
+    "sla": {
+      "deliveryTime": 37,
+      "lastMileTravel": 3.8,
+      "serviceability": "SERVICEABLE",
+      "slaString": "37 mins",
+      "lastMileTravelString": "3.8 km",
+      "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+      "nextCloseTime": "2024-04-26 00:00:00",
+      "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+      "entityBadges": {
+        "imageBased": {},
+        "textBased": {},
+        "textExtendedBadges": {}
+      }
+    },
+    "aggregatedDiscountInfoV3": {
+      "header": "50% OFF",
+      "subHeader": "UPTO ₹100"
+    },
+    "differentiatedUi": {
+      "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+      "differentiatedUiMediaDetails": {
+        "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+        "lottie": {},
+        "video": {}
+      }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {}
+  },
+  "analytics": {},
+  "cta": {
+    "link": "https://www.swiggy.com/restaurants/getaway-ice-creams-and-desserts-mr-4-road-vijay-nagar-jabalpur-637283",
+    "type": "WEBLINK"
+  }
+}

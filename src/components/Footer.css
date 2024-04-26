@@ -1,0 +1,19 @@
+.skewed-bg {
+  background: #ebb064c9;
+  padding: 20px 0;
+}
+
+.skewed-bg .content {
+  text-align: center;
+}
+
+.skewed-bg .content .title {
+  padding-top: 100px;
+  font-weight: normal;
+}
+
+.skewed-bg .content .text {
+  width: 100%;
+  margin: 25px auto;
+  color: #000000;
+}

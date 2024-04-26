@@ -1,0 +1,57 @@
+.menu {
+  font-size: 20px;
+  position: relative;
+  margin: 13px;
+  padding: 30px;
+}
+.left {
+  width: 75%;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: 600;
+}
+.flexing {
+  display: flex;
+}
+.cuisines {
+  width: 10%;
+  font-size: 12px;
+  font-weight: 400;
+  color: gray;
+}
+.area {
+  width: 44%;
+  font-size: 12px;
+  font-weight: 400;
+  color: gray;
+  /* display: flex; */
+  gap: 5px;
+}
+.costmoney {
+  display: flex;
+  gap: 10px;
+  font-size: 14px;
+}
+.line {
+  margin: auto;
+  width: 95%;
+  margin: 0 7px;
+  border-bottom: 1px solid #bebebe;
+}
+.right {
+  width: 25%;
+}
+.rating {
+  background-color: #e2c417ec;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  width: 65px;
+  height: auto;
+}
+.listofRes {
+  margin: 30px;
+}

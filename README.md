@@ -1,3 +1,3 @@
 ﻿# namasteFood
-# [namasteFood](https://bhanuswiggyapi.netlify.app/)
+# LINK- LIVE PREVIEW [namasteFood](https://bhanuswiggyapi.netlify.app/)
 # swiggyAPI_namasteReact
